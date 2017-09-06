@@ -1,0 +1,20 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+$footer-height: 3.75rem;
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-top: $navbar-brand-height + 2rem;
+	margin-bottom: $footer-height + 1rem;
+}
+footer {
+	font-size: $font-size-sm;
+	position: absolute;
+	bottom: 0;
+	height: $footer-height;
+	line-height: $footer-height;
+	background-color: $gray-800;
+}

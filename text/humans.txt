@@ -1,0 +1,14 @@
+/* TEAM */
+
+	Web developer:	Pleysier Web Solutions
+	Website:		pleysier.com.au
+	Location:		Mount Eliza Vic AU
+
+
+/* SITE */
+
+	Last update:	2017/09/15
+	Language: 		English (AU)
+	Doctype:		HTML5
+	Software: 		Dreamweaver, Photoshop, Illustrator
+	
